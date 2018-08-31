@@ -80,7 +80,7 @@ LNode *LocateElem(LinkList L, ElemType e) {
 	return p;
 }
 
-int main() {
+int main4() {
 	LinkList L;
 	CreateList2(L);
 	LNode *s = GetElem(L, 3);

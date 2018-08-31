@@ -117,8 +117,10 @@
   <ItemGroup>
     <ClCompile Include="array.cpp" />
     <ClCompile Include="LinkList.cpp" />
+    <ClCompile Include="sort.cpp" />
     <ClCompile Include="SqList.cpp" />
     <ClCompile Include="szcl.cpp" />
+    <ClCompile Include="Tree.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
